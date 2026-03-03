@@ -51,6 +51,7 @@ This project aims to automate the screening and pre-selection of job applicants 
 - Develop a chatbot to interact with pre-selected candidates.  
 - Dynamically generate quiz questions based on candidate profile and job requirements.  
 - Analyze responses to refine selection.
+<img width="831" height="479" alt="image" src="https://github.com/user-attachments/assets/65124bde-ad07-45fb-bf87-828a5077772b" />
 
 ### Implementation
 - **Service:** `services/quiz_generator.py` uses Dolphin 2.9.3 (Mistral 7B).  
